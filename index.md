@@ -7,4 +7,4 @@ My favorite line is:
 > --Dylan Thomas
 
 To know more about me, click:\
-[Link](https://huimenglu.github.io/cse15l-lab-reports/banana.html)
+[ClickMe](https://huimenglu.github.io/cse15l-lab-reports/banana.html)
