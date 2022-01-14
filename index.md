@@ -9,3 +9,7 @@
 To know more about me, click:\
 [ClickMe](https://huimenglu.github.io/cse15l-lab-reports/banana.html)
 ![2 r2 2](https://user-images.githubusercontent.com/97484123/149269973-b08cef8e-22a5-4720-aa1f-2e07e26685d0.png)It's nice to meet you! **:)**
+
+[Lab Report 1](lab-report-1-week-2.html)
+
+[Lab Report 1](https://HuimengLu.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
