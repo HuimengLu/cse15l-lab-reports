@@ -127,5 +127,6 @@ You can also run multiple commands on the same line.
 `$ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
 
 The example is shown below.
-![2022-01-06 (5)](https://user-images.githubusercontent.com/97484123/151295224-f221eac0-c608-4ed6-a3dd-5d30ea2b573e.png)
+![2022-01-06 (6)](https://user-images.githubusercontent.com/97484123/151295351-0bb443f0-6edd-4c54-88c3-60cb98acab4e.png)
+
 
