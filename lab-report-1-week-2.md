@@ -1,6 +1,6 @@
 # **CSE 15L Lab Reports**
 
-1. ### Installing VScode
+### 1. Installing VScode
 
 Download VScode from the website: https://code.visualstudio.com/ 
 
@@ -9,7 +9,7 @@ After you successfully install VScode, it should look like this:
 
 <img src="https://user-images.githubusercontent.com/97484123/149446111-913ba1ec-bca7-4146-9ce8-0ecc71448a00.png" width = "750"/>
 
-2. ### Remotely Connecting
+### 2. Remotely Connecting
 
 First, install the program called OpenSSH from this link: https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
 
@@ -30,7 +30,7 @@ Type `yes` and press enter. You will see a window like following:
 
 <img src="https://user-images.githubusercontent.com/97484123/149449053-ab7dec7a-641c-40b0-9d0c-d7680403486e.png" width = "750"/>
 
-3. ### Trying Some Commands
+### 3. Trying Some Commands
 There are many commands you can try in the terminal, here are some examples:\
 `cd` This takes you back home.\
 `ls -lat` This lists all files (including hidden ones) and permissions of these files. The files are sort by time and date.\
@@ -44,7 +44,7 @@ The command `exit`
 Below is an example terminal command:
 <img src="https://user-images.githubusercontent.com/97484123/149447882-d0a1aac0-a268-44f6-8c7a-8afaaaef6451.png" width = "750"/>
 
-4. ### Moving Files with scp
+### 4. Moving Files with scp
 
 To move files from the *client* over to SSH (the *server*), you can use the command `scp`. Create a file on your computer called `WhereAmI.java` and put the following contents into it:
 
@@ -67,7 +67,7 @@ Your file is now moved to SSH! After entering `ls`, you should be able to see:
 
 <img src="https://user-images.githubusercontent.com/97484123/149450159-36649086-a505-4c75-ae39-90eb072b1883.png" width = "750"/>
 
-5. ### Setting an SSH Key
+### 5. Setting an SSH Key
 
 In order to not enter your password to log in every time, you can use an SSH key, and here is how it works:
 
@@ -118,7 +118,7 @@ After this step you should be able to log in withour entering your password:
 
 <img src="https://user-images.githubusercontent.com/97484123/149450678-f6b22728-50fc-4a1d-b64e-b0b2ce118a31.png" width = "750"/>
 
-6. ### Optimizing Remote Running
+### 6. Optimizing Remote Running
 
 You can write a command at the end an ssh command to directly run it on the remote server, then immediately exit.
 `$ ssh cs15lwi22@ieng6.ucsd.edu "ls"`
