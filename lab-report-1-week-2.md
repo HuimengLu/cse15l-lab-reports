@@ -11,9 +11,9 @@ After you successfully install VScode, it should look like this:
 
 ### 2. Remotely Connecting
 
-First, install the program called OpenSSH from this link: https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
+First, install the program called OpenSSH from this link: [https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse)
 
-Secondly, look up your CSE 15L SSH account from here: https://sdacs.ucsd.edu/~icc/index.php
+Secondly, look up your CSE 15L SSH account from here: [https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
 
 Then, open a a terminal in VSCode by using "'Ctrl'  + 'shift' + '`'" or the Terminal → New Terminal menu option. Type the following command:
 
@@ -99,7 +99,7 @@ The key's randomart image is:
 +----[SHA256]-----+
 ```
 
-If you are using Windows, there are a few more `ssh-add` steps, follow the instructions here: https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation
+If you are using Windows, there are a few more `ssh-add` steps, follow the instructions here: [https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement#user-key-generation)
 
 Now we need to copy the public key to the `.ssh` directory of your user account on the server. After logging into your account, on the server, enter `mkdir .ssh`. Then, log out and follow the steps:
 
