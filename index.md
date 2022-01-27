@@ -2,7 +2,7 @@
 
 ### My lab report link:
 
-[Lab Report 1](https://HuimengLu.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+[https://HuimengLu.github.io/cse15l-lab-reports/lab-report-1-week-2.html](https://HuimengLu.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
 ### My favorite line is:
 
