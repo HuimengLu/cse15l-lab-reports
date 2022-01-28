@@ -54,4 +54,4 @@ Before the change, the bug is that as long as there is no parenthese, the progra
 
 #### 4. the relationship between the bug, the symptom, and the failure-inducing input
 
-The symptom here is that "[This is not a link]random words(httplink! some-page)" is not a valid URL, but the program printed it out. The bug is that even if the brackets and the parentheses are seperated by words, the program still views it as an URL. We fixed the bug by adding a space-detector between the brackets and the parentheses.
+The symptom here is that `[This is not a link]random words(httplink! some-page)` is not a valid URL, but the program printed it out. The bug is that even if the brackets and the parentheses are seperated by words, the program still views it as an URL. We fixed the bug by adding a space-detector between the brackets and the parentheses.
