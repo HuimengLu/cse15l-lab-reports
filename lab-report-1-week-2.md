@@ -126,7 +126,8 @@ You can write a command at the end an ssh command to directly run it on the remo
 You can also run multiple commands on the same line.
 `$ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI`
 
-The example is shown below.
-![2022-01-06 (6)](https://user-images.githubusercontent.com/97484123/151295351-0bb443f0-6edd-4c54-88c3-60cb98acab4e.png)
+The example is shown below. The number of total keystrokes is 7.
+
+![2022-01-28 (1)](https://user-images.githubusercontent.com/97484123/151599377-2fe6d98d-0721-41e5-ac06-f610a77515d9.png)
 
 
