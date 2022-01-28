@@ -12,7 +12,7 @@
 
 #### 2. Link to the test file for a failure-inducing input that prompted you to make that change
 
-    [https://github.com/HuimengLu/markdown-parse/blob/main/another-file.md](https://github.com/HuimengLu/markdown-parse/blob/main/another-file.md)
+[https://github.com/HuimengLu/markdown-parse/blob/main/another-file.md](https://github.com/HuimengLu/markdown-parse/blob/main/another-file.md)
     
 #### 3. The symptom of that failure-inducing input
 
@@ -29,7 +29,7 @@ Before the change, the bug is that as long as there is no bracket, the program w
 
 #### 2. Link to the test file for a failure-inducing input that prompted you to make that change
 
-    [https://github.com/HuimengLu/markdown-parse/blob/main/new-markdown.md](https://github.com/HuimengLu/markdown-parse/blob/main/new-markdown.md)
+[https://github.com/HuimengLu/markdown-parse/blob/main/new-markdown.md](https://github.com/HuimengLu/markdown-parse/blob/main/new-markdown.md)
     
 #### 3. The symptom of that failure-inducing input
 
@@ -46,7 +46,7 @@ Before the change, the bug is that as long as there is no parenthese, the progra
 
 #### 2. Link to the test file for a failure-inducing input that prompted you to make that change
 
-    [https://github.com/HuimengLu/markdown-parse/blob/main/one-more.md](https://github.com/HuimengLu/markdown-parse/blob/main/one-more.md)
+[https://github.com/HuimengLu/markdown-parse/blob/main/one-more.md](https://github.com/HuimengLu/markdown-parse/blob/main/one-more.md)
     
 #### 3. The symptom of that failure-inducing input
 
