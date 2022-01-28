@@ -4,6 +4,9 @@
 
 [https://HuimengLu.github.io/cse15l-lab-reports/lab-report-1-week-2.html](https://HuimengLu.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
+
+[https://HuimengLu.github.io/cse15l-lab-reports/lab-report-1-week-4.html](https://HuimengLu.github.io/cse15l-lab-reports/lab-report-1-week-4.html)
+
 ### My favorite line is:
 
 > *Do not go gentle into that good night.*
