@@ -1,10 +1,5 @@
 # Lab Report Week 3-4
 
-1. Show a screenshot of the code change diff from Github (a page like this)
-2. Link to the test file for a failure-inducing input that prompted you to make that change
-3. Show the symptom of that failure-inducing input by showing the output of running the file at the command line for the version where it was failing (this should also be in the commit message history)
-4. Write 2-3 sentences describing the relationship between the bug, the symptom, and the failure-inducing input.
-
 ### Code Change 1
 #### 1. The screenshot of the code change diff from Github
 
