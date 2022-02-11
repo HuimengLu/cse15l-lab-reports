@@ -9,3 +9,7 @@
 ![2022-02-09 (2)](https://user-images.githubusercontent.com/97484123/153463382-aca560cc-a378-4943-aa2a-5caeb04803be.png)
 
 ![2022-02-09 (3)](https://user-images.githubusercontent.com/97484123/153463394-720be6c6-ce5c-4666-91a0-9ede0554b0e2.png)
+
+#### 3. Show combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
+![2022-02-10 (4)](https://user-images.githubusercontent.com/97484123/153540097-25322a1f-8342-4d35-b0fa-152c28aa5c13.png)
+![2022-02-10 (5)](https://user-images.githubusercontent.com/97484123/153540101-03719dc9-7b89-43a7-a2ad-eee1e2449897.png)
