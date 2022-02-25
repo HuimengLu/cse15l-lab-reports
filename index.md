@@ -10,6 +10,9 @@
 
 [https://HuimengLu.github.io/cse15l-lab-reports/lab-report-3-week-6.html](https://HuimengLu.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
+
+[https://HuimengLu.github.io/cse15l-lab-reports/lab-report-4-week-8.html](https://HuimengLu.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
+
 ### My favorite line is:
 
 > *Do not go gentle into that good night.*
