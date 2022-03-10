@@ -22,7 +22,7 @@ These lines mean that on line 212, the results in the `markdown-parse` directory
 
 ### (2) Choose files and explain the bugs
 
-1. The first set of files I chose was 201.md, which caused the difference in line 230. The result from the provided directory is `[baz]`, but the result from `CSE15L-Platypus` is `[]`.
+(1) The first set of files I chose was 201.md, which caused the difference in line 230. The result from the provided directory is `[baz]`, but the result from `CSE15L-Platypus` is `[]`.
 
 ![2022-03-09 (3)](https://user-images.githubusercontent.com/97484123/157566855-9169e8ef-23d6-4c83-8574-1eef98e6ab65.png)
 
@@ -34,7 +34,7 @@ I think the `CSE15L-Platypus` implementation is correct, because the excepted ou
 
 ![2022-03-09 (6)](https://user-images.githubusercontent.com/97484123/157568551-45d9b238-124c-46b1-a4b5-1ecffc15afd3.png)
 
-2. The second set of files I chose was 342.md, which caused the difference in line 230. The result from the provided directory is [/foo`], but the result from CSE15L-Platypus is [].
+(2) The second set of files I chose was 342.md, which caused the difference in line 230. The result from the provided directory is [/foo`], but the result from CSE15L-Platypus is [].
 
 ![2022-03-09 (2)](https://user-images.githubusercontent.com/97484123/157568631-06866ab7-ff09-426d-9541-30f9ff6cea37.png)
 
